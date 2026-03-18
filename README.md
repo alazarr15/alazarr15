@@ -1,16 +1,105 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there! I'm Alazar 👋</h1>
+  
+  <p>
+    <strong>Full-Stack Developer</strong> building real products for real people — mostly focused on Ethiopia & Africa 🚀<br>
+    Currently obsessed with <strong>real-time apps</strong>, <strong>mobile-first experiences</strong>, and shipping fast.
+  </p>
 
-<!--
-**alazarr15/alazarr15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=JavaScript+%2F+TypeScript;React+%2F+Next.js+%2F+Flutter;MERN+%2F+Supabase+%2F+Redis;Real-time+%26+Multiplayer+Games" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack I Use Daily
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+</table>
+
+### 🚀 What I'm Building Right Now
+
+- 📱 **Ethiopian Short-Drama Streaming App**  
+  Flutter + Supabase + Mux video + Chapa payments  
+  (mobile-first entertainment platform for local content)
+
+- 🎲 **Real-time Multiplayer Bingo / Card Game**  
+  MERN + Socket.IO + Redis (pub/sub + concurrency handling)
+
+- 🌐 **Personal Portfolio**  
+  Live at → [awebdev.netlify.app](https://awebdev.netlify.app)
+
+- ...and always learning: Next.js 14+, TypeScript deeply, better mobile DX, scaling real-time systems
+
+### 🌍 A Bit About Me
+
+- 🇪🇹 Based in Addis Ababa, Ethiopia
+- 💜 Building tools & experiences that make sense for African users
+- 🎯 Self-taught → shipping real apps → aiming for great remote full-stack roles
+- 🎙️ Daily English practice (shadowing, recording, improving fluency)
+- ⚡ Fun fact: I upgrade my RAM before I upgrade almost anything else 😄
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/[YOUR-GITHUB-USERNAME]" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/[YOUR-LINKEDIN-IF-ANY]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://awebdev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C4B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  Thanks for stopping by! Feel free to explore my repos or just say hi 👀✨
+</p>
