@@ -46,7 +46,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=socketio" width="48" height="48" alt="socketio" />
+      <img src="https://skillicons.dev/icons?i=socket.io" width="48" height="48" alt="socketio" />
       <br>Socketio
     </td>
     <td align="center" width="96">
