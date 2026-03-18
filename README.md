@@ -6,7 +6,7 @@
     Currently obsessed with <strong>real-time apps</strong>, <strong>mobile-first experiences</strong>, and shipping fast.
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=JavaScript+%2F+TypeScript;React+%2F+Next.js+%2F+Flutter;MERN+%2F+Supabase+%2F+Redis;Real-time+%26+Multiplayer+Games" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=JavaScript+%2F+TypeScript;React+%2F+Next.js+%2F+Tailwind;MERN+%2F+Supabase+%2F+Redis;Real-time+%26+Multiplayer+Games" alt="Typing SVG" />
 </div>
 
 <br/>
