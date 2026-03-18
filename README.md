@@ -79,23 +79,21 @@ Currently focused on real-time systems, scalable backend architecture, and high-
 - Comparing SSE vs WebSockets in production scenarios
 - Applying Redis patterns for real-time systems
 - Exploring scaling strategies and performance optimization
-- 
+  
 
 ### 🌍 A Bit About Me
 
-- 🇪🇹 Based in Addis Ababa, Ethiopia
-- 💜 Building tools & experiences that make sense for African users
-- 🎯 Self-taught → shipping real apps → aiming for great remote full-stack roles
-- 🎙️ Daily English practice (shadowing, recording, improving fluency)
-- ⚡ Fun fact: I upgrade my RAM before I upgrade almost anything else 😄
+- 🇪🇹 Based in Addis Ababa, Ethiopia  
+- 🎓 Computer Science student at Addis Ababa University  
+- 💜 Building scalable, real-world solutions tailored for African users  
+- ⚙️ Strong focus on backend systems, real-time applications, and performance  
+- 🧠 Interested in system design, distributed systems, and how applications scale in production  
+- 🎯 Self-taught developer with hands-on project experience, aiming for remote full-stack roles
 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/[YOUR-GITHUB-USERNAME]" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/[YOUR-LINKEDIN-IF-ANY]" target="_blank">
+  <a href="https://www.linkedin.com/in/alazarfikadu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://awebdev.netlify.app" target="_blank">
@@ -103,9 +101,6 @@ Currently focused on real-time systems, scalable backend architecture, and high-
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-</p>
 
 <p align="center">
   Thanks for stopping by! Feel free to explore my repos or just say hi 👀✨
