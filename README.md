@@ -2,7 +2,7 @@
   <h1>Hi there! I'm Alazar 👋</h1>
   
   <p>
-    <strong>Full-Stack Developer</strong> building real products for real people — mostly focused on Ethiopia & Africa 🚀<br>
+    <strong>Full-Stack Developer</strong> building real products for real people - mostly focused on Ethiopia & Africa 🚀<br>
     Currently obsessed with <strong>real-time apps</strong>, <strong>mobile-first experiences</strong>, and shipping fast.
   </p>
 
