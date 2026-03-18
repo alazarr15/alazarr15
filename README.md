@@ -60,49 +60,26 @@
   </tr>
 </table>
 
-### 🚀 What I'm Building Right Now
+## 🚀 What I'm Building
 
-Deep into **real-time systems**, **scalable backend design**, **Redis-powered performance**, and **full-stack React applications**. Active focus areas:
+Currently focused on real-time systems, scalable backend architecture, and high-performance fullstack applications.
 
-- **Real-time Multiplayer Bingo / Card Game**  
-  MERN stack + Socket.IO (WebSockets) + Redis (pub/sub, concurrency handling, caching)  
-  Building low-latency multiplayer features: live updates, player syncing, room management, and smooth real-time interactions.
+### 🎮 Real-Time Multiplayer Systems
+- Building multiplayer Bingo/Card game with low-latency interactions
+- Real-time updates, player synchronization, and room management
+- Stack: MERN, Socket.IO (WebSockets), Redis (pub/sub, caching, concurrency)
 
-<grok-card data-id="d4bf12" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
+### ⚙️ Scalable Full-Stack Applications
+- Developing apps with React / Next.js and modern API design
+- Designing backends for horizontal scaling and performance
+- Working with SSE and WebSockets for real-time features
+- Using Redis for caching, session management, and messaging
 
-
-
-<grok-card data-id="754c6e" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="83959e" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="5ce718" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
-
-- **Exploring & Prototyping Scalable Full-Stack Apps**  
-  React / Next.js + TypeScript + modern APIs  
-  Hands-on experimentation with SSE/WebSockets for real-time features, Redis for caching/session management/pub-sub, and designing backends ready for horizontal scaling.
-
-<grok-card data-id="f67a94" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="2f2ea4" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="949f1e" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="717bda" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
-
-
-Always leveling up: comparing SSE vs WebSockets patterns, Redis best practices for real-time apps, horizontal scaling techniques, and shipping performant full-stack products.
+### 📚 Continuous Exploration
+- Comparing SSE vs WebSockets in production scenarios
+- Applying Redis patterns for real-time systems
+- Exploring scaling strategies and performance optimization
+- 
 
 ### 🌍 A Bit About Me
 
